@@ -1,4 +1,4 @@
-public class MyArrayList {
+public class MyArrayList implements  MayArrayListTAD {
 
     ////////////////INSERÇÃO
 
