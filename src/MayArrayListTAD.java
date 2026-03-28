@@ -9,4 +9,5 @@ public interface MayArrayListTAD {
     int find(int[] list, int positon);
     int get(int[] list, int positon);
     int[] set(int item, int position, int[] list);
+
 }
